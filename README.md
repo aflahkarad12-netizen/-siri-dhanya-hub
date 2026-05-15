@@ -25,4 +25,5 @@ The app follows an **"Earthy and Natural"** UI/UX philosophy to stay connected t
 * **Nutrition Security:** Fighting lifestyle diseases via superfoods.
 * **Climate Action:** Promoting crops that use 70% less water than paddy.
 * **Farmer Prosperity:** Helping farmers track multiple markets for the best price.
+**Developed by:** Muhammed Aflah.
 
